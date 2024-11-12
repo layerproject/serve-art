@@ -1,0 +1,28 @@
+{
+  "name": "serve-art",
+  "version": "1.0.0",
+  "description": "A small tool for serving the files in a directory so that they can be displayed in an iframe on another domain.",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/layerproject/serve-art.git"
+  },
+  "author": "Sam Shull",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/layerproject/serve-art/issues"
+  },
+  "homepage": "https://github.com/layerproject/serve-art#readme",
+  "bin": {
+    "serve-art": "./index.cjs"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
