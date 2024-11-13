@@ -7,6 +7,7 @@ A small tool for serving the files in a directory so that they can be displayed 
 - --port,-p - Set the port for the server, default is 8080.
 - --host,-h - Set the host for the server, default is 0.0.0.0 or 127.0.0.1.
 - --root,-r - Set the root directory for the server, default is cwd.
+- --sandbox,-s - Specify the sandbox url. Default: https://app.layer.com/submissions/generative/sandbox
 
 ## Usage
 

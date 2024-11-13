@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "live-server": "^1.2.2",
+    "localtunnel": "^2.0.2",
     "open": "^10.1.0"
   },
   "engines": {
