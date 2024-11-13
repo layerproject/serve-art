@@ -20,7 +20,8 @@
     "serve-art": "./index.cjs"
   },
   "dependencies": {
-    "live-server": "^1.2.2"
+    "live-server": "^1.2.2",
+    "open": "^10.1.0"
   },
   "engines": {
     "node": ">=18.0.0"
