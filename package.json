@@ -1,6 +1,6 @@
 {
   "name": "@layerart/serve-art",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A small tool for serving the files in a directory so that they can be displayed in an iframe on another domain.",
   "main": "index.cjs",
   "scripts": {
