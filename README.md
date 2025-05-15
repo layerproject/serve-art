@@ -1,4 +1,6 @@
-# @layerart/serve-art
+# DEPRECATED @layerart/serve-art
+
+**Please use https://sandbox.layer.com/**
 
 A small tool for serving the files in a directory so that they can be displayed in an iframe on the Layer submission platform. This server creates a tunnel in order to provide security compatibility in the browser.
 
